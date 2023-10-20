@@ -1,4 +1,7 @@
-LOGIC FOR CODE
+LOGIC FOR CODE----
+
+instruction---
+******GIVE THE FILE PATH OF INPUT FILE IN file_path (line 50 in code) WITHOUT DOUBLE QUOTES
 
 1-->   WE FIRST IMPORT ALL DATA FROM INPUT FILE AND STORE INTO VECTOR (we have to change input file for each time manually).
 
